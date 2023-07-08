@@ -1,7 +1,5 @@
 # Introduction
 
-# Introduction
-
 The goal of machine learning is to create a model that can learn from data and can model to make predictions based on that data. This is done by training a data on a dataset and allowing it to find patterns in that data and using that data to make new prediction on new, unseen data.
 
 # There are 2 types studied here, supervised & unsupervised ML.
